@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AulaXY1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_seungs">Settings</string>
+    <string name="title_acavity_main">MainActivity</string>
+    <string name="defaultLeftText">X coord</string>
+    <string name="defaultRightText">Y coord</string>
+    <string name="labelRed">red</string>
+    <string name="labelGreen">green</string>
+    <string name="labelAnagram">Check</string>
+</resources> 
